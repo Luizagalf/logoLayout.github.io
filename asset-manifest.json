@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.681dfd67.css",
+    "main.js": "/static/js/main.f49a704c.js",
+    "static/js/787.70b94e04.chunk.js": "/static/js/787.70b94e04.chunk.js",
+    "static/media/Gilroy-Medium.ttf": "/static/media/Gilroy-Medium.1c23f810e531d0702f76.ttf",
+    "static/media/Gilroy-Medium.woff": "/static/media/Gilroy-Medium.5329bc502cdc219ad294.woff",
+    "static/media/Gilroy-Medium.woff2": "/static/media/Gilroy-Medium.acd4e613de34a826c191.woff2",
+    "static/media/plane.svg": "/static/media/plane.f79d17b52db18a861e8677e7b8400974.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.0de204e6abcfc33c2abfe9bd9d3969b9.svg",
+    "static/media/telegram.svg": "/static/media/telegram.d8fb65266d9ac9b67178cd9ca3101102.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.16b93deb4124529c50fa0b11b59a529d.svg",
+    "main.681dfd67.css.map": "/static/css/main.681dfd67.css.map",
+    "main.f49a704c.js.map": "/static/js/main.f49a704c.js.map",
+    "787.70b94e04.chunk.js.map": "/static/js/787.70b94e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681dfd67.css",
+    "static/js/main.f49a704c.js"
+  ]
+}
